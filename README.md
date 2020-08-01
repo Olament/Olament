@@ -1,5 +1,5 @@
-### 👋
-![](https://komarev.com/ghpvc/?username=Olament)
+### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Olament&style=flat-square)
 
 
 Currently working on Baritone
